@@ -1,0 +1,28 @@
+[package]
+name = "note_api"
+version = "0.1.0"
+edition = "2021"
+author = "Phillip <phillipk0113@gmail.com>"
+default-run = "note_api"
+
+[dependencies]
+actix-web = "4.0"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+sqlx = { version = "0.7", features = ["runtime-tokio-native-tls", "sqlite"] }
+dotenv = "0.15"
+tokio = { version = "1", features = ["full"] }  # Async runtime
+reqwest = { version = "0.11", features = ["json"] }
+
+[[bin]]
+name = "post_note"
+path = "post_note.rs"
+
+[[bin]]
+name = "get_notes"
+path = "get_notes.rs"
+
+[[bin]]
+name = "update_note"
+path = "update_note.rs"
+

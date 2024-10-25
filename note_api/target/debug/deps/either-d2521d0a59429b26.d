@@ -1,0 +1,11 @@
+C:\Users\phill\Files\Miscellaneous\Rust_Testing\note_api\target\debug\deps\libeither-d2521d0a59429b26.rmeta: C:\Users\phill\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\lib.rs C:\Users\phill\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\serde_untagged.rs C:\Users\phill\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\serde_untagged_optional.rs C:\Users\phill\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\iterator.rs C:\Users\phill\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\into_either.rs
+
+C:\Users\phill\Files\Miscellaneous\Rust_Testing\note_api\target\debug\deps\libeither-d2521d0a59429b26.rlib: C:\Users\phill\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\lib.rs C:\Users\phill\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\serde_untagged.rs C:\Users\phill\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\serde_untagged_optional.rs C:\Users\phill\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\iterator.rs C:\Users\phill\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\into_either.rs
+
+C:\Users\phill\Files\Miscellaneous\Rust_Testing\note_api\target\debug\deps\either-d2521d0a59429b26.d: C:\Users\phill\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\lib.rs C:\Users\phill\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\serde_untagged.rs C:\Users\phill\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\serde_untagged_optional.rs C:\Users\phill\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\iterator.rs C:\Users\phill\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\into_either.rs
+
+C:\Users\phill\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\lib.rs:
+C:\Users\phill\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\serde_untagged.rs:
+C:\Users\phill\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\serde_untagged_optional.rs:
+C:\Users\phill\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\iterator.rs:
+C:\Users\phill\.cargo\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\into_either.rs:
